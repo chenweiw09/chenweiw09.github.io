@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>枫林落叶</h1>
+        <h1>西木风落</h1>
         <a href="http://weibo.com//" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://www.douban.com/people//" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://blog.csdn.net/chenwiehuang" target="_blank"><img src="/images/csdn.ico" alt="" width="22"/></a>
